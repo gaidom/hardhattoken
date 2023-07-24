@@ -20,11 +20,7 @@ This repository showcases the development of a smart contract in Solidity, focus
 
 #### Compiling and Deploying the Contract
 
-1. Copy the contents of `hardhat.sol` and paste them into Remix IDE.
-2. Compile the smart contract.
-3. Configure Remix to connect to the local network by selecting the "Injected Provider" option from the dropdown menu in the "Deploy & run transactions" panel.
-4. Verify the connection in Metamask with the configured Hardhat Network.
-5. Deploy the smart contract and test its functionalities.
+To get started, first, copy the contents of the hardhat.sol file and paste them into the Remix IDE. Afterward, compile the smart contract. Next, configure Remix to connect to the local network by selecting the "Injected Provider" option from the dropdown menu in the "Deploy & run transactions" panel. Once the connection is established, verify it in Metamask with the configured Hardhat Network. Finally, deploy the smart contract and proceed to test its functionalities.
 
 For more detailed information about the project, refer to the source files in the repository.
 
